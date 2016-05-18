@@ -1,0 +1,13 @@
+PODS:
+  - Firebase (2.5.1)
+  - SlideMenuControllerSwift (2.1.1)
+
+DEPENDENCIES:
+  - Firebase (>= 2.5.1)
+  - SlideMenuControllerSwift
+
+SPEC CHECKSUMS:
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  SlideMenuControllerSwift: 82ada9b04e03538c84d034cf1c09e5849c0113f7
+
+COCOAPODS: 0.39.0

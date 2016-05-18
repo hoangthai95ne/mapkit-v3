@@ -1,0 +1,369 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MemberCell"
+provides-nominal:
+- "C9mapkit_v310MemberCell"
+provides-member:
+- ["C9mapkit_v310MemberCell", ""]
+provides-dynamic-lookup:
+- "memberPhoto"
+- "awakeFromNib"
+- "nameLabel"
+depends-top-level:
+- "UITableViewCell"
+- "Person"
+- !private "/"
+- "MemberCell"
+- "UIImageView"
+- "UILabel"
+- !private "BooleanLiteralType"
+depends-member:
+- ["Ps9AnyObject", "awakeFromNib"]
+- !private ["Ps9AnyObject", "bounds"]
+- !private ["Ps9AnyObject", "clipsToBounds"]
+- ["Ps9AnyObject", "configureCell"]
+- !private ["Ps9AnyObject", "cornerRadius"]
+- !private ["Ps9AnyObject", "image"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "layer"]
+- ["Ps9AnyObject", "memberPhoto"]
+- !private ["Ps9AnyObject", "name"]
+- ["Ps9AnyObject", "nameLabel"]
+- !private ["Ps9AnyObject", "profilePhoto"]
+- !private ["Ps9AnyObject", "sizeToFit"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", ""]
+- !private ["CSo7CALayer", "cornerRadius"]
+- !private ["PSo13CAMediaTiming", "cornerRadius"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC6CGRect", "size"]
+- !private ["VSC6CGSize", "width"]
+- ["Ps11CVarArgType", "awakeFromNib"]
+- !private ["Ps11CVarArgType", "bounds"]
+- !private ["Ps11CVarArgType", "clipsToBounds"]
+- ["Ps11CVarArgType", "configureCell"]
+- !private ["Ps11CVarArgType", "cornerRadius"]
+- !private ["Ps11CVarArgType", "image"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "layer"]
+- ["Ps11CVarArgType", "memberPhoto"]
+- ["Ps11CVarArgType", "nameLabel"]
+- !private ["Ps11CVarArgType", "sizeToFit"]
+- !private ["Ps11CVarArgType", "text"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "awakeFromNib"]
+- !private ["Ps28CustomDebugStringConvertible", "bounds"]
+- !private ["Ps28CustomDebugStringConvertible", "clipsToBounds"]
+- ["Ps28CustomDebugStringConvertible", "configureCell"]
+- !private ["Ps28CustomDebugStringConvertible", "cornerRadius"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "layer"]
+- ["Ps28CustomDebugStringConvertible", "memberPhoto"]
+- ["Ps28CustomDebugStringConvertible", "nameLabel"]
+- !private ["Ps28CustomDebugStringConvertible", "sizeToFit"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "awakeFromNib"]
+- !private ["Ps23CustomStringConvertible", "bounds"]
+- !private ["Ps23CustomStringConvertible", "clipsToBounds"]
+- ["Ps23CustomStringConvertible", "configureCell"]
+- !private ["Ps23CustomStringConvertible", "cornerRadius"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "layer"]
+- ["Ps23CustomStringConvertible", "memberPhoto"]
+- ["Ps23CustomStringConvertible", "nameLabel"]
+- !private ["Ps23CustomStringConvertible", "sizeToFit"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "awakeFromNib"]
+- !private ["Ps9Equatable", "bounds"]
+- !private ["Ps9Equatable", "clipsToBounds"]
+- ["Ps9Equatable", "configureCell"]
+- !private ["Ps9Equatable", "cornerRadius"]
+- !private ["Ps9Equatable", "image"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "layer"]
+- ["Ps9Equatable", "memberPhoto"]
+- ["Ps9Equatable", "nameLabel"]
+- !private ["Ps9Equatable", "size"]
+- !private ["Ps9Equatable", "sizeToFit"]
+- !private ["Ps9Equatable", "text"]
+- !private ["Ps9Equatable", "width"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "awakeFromNib"]
+- !private ["Ps8Hashable", "bounds"]
+- !private ["Ps8Hashable", "clipsToBounds"]
+- ["Ps8Hashable", "configureCell"]
+- !private ["Ps8Hashable", "cornerRadius"]
+- !private ["Ps8Hashable", "image"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "layer"]
+- ["Ps8Hashable", "memberPhoto"]
+- ["Ps8Hashable", "nameLabel"]
+- !private ["Ps8Hashable", "sizeToFit"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", ""]
+- ["C9mapkit_v310MemberCell", "Person"]
+- ["C9mapkit_v310MemberCell", "UIImageView"]
+- ["C9mapkit_v310MemberCell", "UILabel"]
+- ["C9mapkit_v310MemberCell", "awakeFromNib"]
+- ["C9mapkit_v310MemberCell", "configureCell"]
+- ["C9mapkit_v310MemberCell", "deinit"]
+- ["C9mapkit_v310MemberCell", "init"]
+- ["C9mapkit_v310MemberCell", "memberPhoto"]
+- ["C9mapkit_v310MemberCell", "nameLabel"]
+- ["PSo8NSCoding", "awakeFromNib"]
+- !private ["PSo8NSCoding", "bounds"]
+- !private ["PSo8NSCoding", "clipsToBounds"]
+- ["PSo8NSCoding", "configureCell"]
+- !private ["PSo8NSCoding", "cornerRadius"]
+- !private ["PSo8NSCoding", "image"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "layer"]
+- ["PSo8NSCoding", "memberPhoto"]
+- ["PSo8NSCoding", "nameLabel"]
+- !private ["PSo8NSCoding", "sizeToFit"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "Person"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "awakeFromNib"]
+- !private ["CSo8NSObject", "bounds"]
+- !private ["CSo8NSObject", "clipsToBounds"]
+- ["CSo8NSObject", "configureCell"]
+- !private ["CSo8NSObject", "cornerRadius"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "layer"]
+- ["CSo8NSObject", "memberPhoto"]
+- ["CSo8NSObject", "nameLabel"]
+- !private ["CSo8NSObject", "sizeToFit"]
+- !private ["CSo8NSObject", "text"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- !private ["PSo16NSObjectProtocol", "bounds"]
+- !private ["PSo16NSObjectProtocol", "clipsToBounds"]
+- ["PSo16NSObjectProtocol", "configureCell"]
+- !private ["PSo16NSObjectProtocol", "cornerRadius"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- ["PSo16NSObjectProtocol", "memberPhoto"]
+- ["PSo16NSObjectProtocol", "nameLabel"]
+- !private ["PSo16NSObjectProtocol", "sizeToFit"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["C9mapkit_v36Person", "name"]
+- !private ["C9mapkit_v36Person", "profilePhoto"]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- !private ["PSo29UIAccessibilityIdentification", "bounds"]
+- !private ["PSo29UIAccessibilityIdentification", "clipsToBounds"]
+- ["PSo29UIAccessibilityIdentification", "configureCell"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- ["PSo29UIAccessibilityIdentification", "memberPhoto"]
+- ["PSo29UIAccessibilityIdentification", "nameLabel"]
+- !private ["PSo29UIAccessibilityIdentification", "sizeToFit"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- !private ["PSo12UIAppearance", "bounds"]
+- !private ["PSo12UIAppearance", "clipsToBounds"]
+- ["PSo12UIAppearance", "configureCell"]
+- !private ["PSo12UIAppearance", "image"]
+- ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "layer"]
+- ["PSo12UIAppearance", "memberPhoto"]
+- ["PSo12UIAppearance", "nameLabel"]
+- !private ["PSo12UIAppearance", "sizeToFit"]
+- !private ["PSo12UIAppearance", "text"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- !private ["PSo21UIAppearanceContainer", "bounds"]
+- !private ["PSo21UIAppearanceContainer", "clipsToBounds"]
+- ["PSo21UIAppearanceContainer", "configureCell"]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- ["PSo21UIAppearanceContainer", "memberPhoto"]
+- ["PSo21UIAppearanceContainer", "nameLabel"]
+- !private ["PSo21UIAppearanceContainer", "sizeToFit"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- !private ["PSo17UICoordinateSpace", "bounds"]
+- !private ["PSo17UICoordinateSpace", "clipsToBounds"]
+- ["PSo17UICoordinateSpace", "configureCell"]
+- !private ["PSo17UICoordinateSpace", "image"]
+- ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- ["PSo17UICoordinateSpace", "memberPhoto"]
+- ["PSo17UICoordinateSpace", "nameLabel"]
+- !private ["PSo17UICoordinateSpace", "sizeToFit"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- !private ["PSo13UIDynamicItem", "bounds"]
+- !private ["PSo13UIDynamicItem", "clipsToBounds"]
+- ["PSo13UIDynamicItem", "configureCell"]
+- !private ["PSo13UIDynamicItem", "image"]
+- ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- ["PSo13UIDynamicItem", "memberPhoto"]
+- ["PSo13UIDynamicItem", "nameLabel"]
+- !private ["PSo13UIDynamicItem", "sizeToFit"]
+- !private ["PSo13UIDynamicItem", "text"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- !private ["PSo18UIFocusEnvironment", "bounds"]
+- !private ["PSo18UIFocusEnvironment", "clipsToBounds"]
+- ["PSo18UIFocusEnvironment", "configureCell"]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- ["PSo18UIFocusEnvironment", "memberPhoto"]
+- ["PSo18UIFocusEnvironment", "nameLabel"]
+- !private ["PSo18UIFocusEnvironment", "sizeToFit"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- ["PSo27UIGestureRecognizerDelegate", "configureCell"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "memberPhoto"]
+- ["PSo27UIGestureRecognizerDelegate", "nameLabel"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- !private ["CSo11UIImageView", "bounds"]
+- !private ["CSo11UIImageView", "clipsToBounds"]
+- !private ["CSo11UIImageView", "image"]
+- !private ["CSo11UIImageView", "layer"]
+- !private ["CSo7UILabel", "sizeToFit"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "Person"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- !private ["CSo11UIResponder", "bounds"]
+- !private ["CSo11UIResponder", "clipsToBounds"]
+- ["CSo11UIResponder", "configureCell"]
+- !private ["CSo11UIResponder", "image"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "layer"]
+- ["CSo11UIResponder", "memberPhoto"]
+- ["CSo11UIResponder", "nameLabel"]
+- !private ["CSo11UIResponder", "sizeToFit"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo15UITableViewCell", "Person"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- ["CSo15UITableViewCell", "configureCell"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "memberPhoto"]
+- ["CSo15UITableViewCell", "nameLabel"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- !private ["PSo18UITraitEnvironment", "bounds"]
+- !private ["PSo18UITraitEnvironment", "clipsToBounds"]
+- ["PSo18UITraitEnvironment", "configureCell"]
+- !private ["PSo18UITraitEnvironment", "image"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- ["PSo18UITraitEnvironment", "memberPhoto"]
+- ["PSo18UITraitEnvironment", "nameLabel"]
+- !private ["PSo18UITraitEnvironment", "sizeToFit"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Person"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "awakeFromNib"]
+- !private ["CSo6UIView", "bounds"]
+- !private ["CSo6UIView", "clipsToBounds"]
+- ["CSo6UIView", "configureCell"]
+- !private ["CSo6UIView", "image"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "layer"]
+- ["CSo6UIView", "memberPhoto"]
+- ["CSo6UIView", "nameLabel"]
+- !private ["CSo6UIView", "sizeToFit"]
+- !private ["CSo6UIView", "text"]
+- ["Ps12_Reflectable", "awakeFromNib"]
+- !private ["Ps12_Reflectable", "bounds"]
+- !private ["Ps12_Reflectable", "clipsToBounds"]
+- ["Ps12_Reflectable", "configureCell"]
+- !private ["Ps12_Reflectable", "image"]
+- ["Ps12_Reflectable", "init"]
+- !private ["Ps12_Reflectable", "layer"]
+- ["Ps12_Reflectable", "memberPhoto"]
+- ["Ps12_Reflectable", "nameLabel"]
+- !private ["Ps12_Reflectable", "size"]
+- !private ["Ps12_Reflectable", "sizeToFit"]
+- !private ["Ps12_Reflectable", "text"]
+- !private ["Ps12_Reflectable", "width"]
+- ["Ps12_Reflectable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "CSo7CALayer"
+- !private "PSo13CAMediaTiming"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC6CGRect"
+- !private "VSC6CGSize"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "C9mapkit_v310MemberCell"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "C9mapkit_v36Person"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- !private "CSo11UIImageView"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/mapkit-v3-Bridging-Header.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-simple-v2.3/mapkit-simple-v2/PinAnnotation.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/SlideMenuControllerSwift.framework/Modules/SlideMenuControllerSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/SlideMenuControllerSwift.framework/Headers/SlideMenuControllerSwift-Swift.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/SlideMenuControllerSwift.framework/Headers/SlideMenuControllerSwift.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/SlideMenuControllerSwift.framework/Headers/SlideMenuControllerSwift-umbrella.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/SlideMenuControllerSwift.framework/Modules/module.modulemap"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FirebaseServerValue.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FTransactionResult.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FMutableData.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FirebaseApp.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FQuery.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/Firebase.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FEventType.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FDataSnapshot.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FConfig.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FAuthType.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/FAuthData.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Headers/Firebase-umbrella.h"
+- "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/Firebase.framework/Modules/module.modulemap"
+interface-hash: "944a003f71c1f99e03805f8920119dd7"

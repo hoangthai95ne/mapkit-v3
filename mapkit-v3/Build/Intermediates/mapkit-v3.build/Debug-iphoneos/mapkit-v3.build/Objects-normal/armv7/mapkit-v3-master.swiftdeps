@@ -1,0 +1,21 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "096b2ec818def120b1cd895a4ff1e455"
+build_time: [516773121, 901229000]
+inputs:
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/Group.swift": [516168857, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/Person.swift": [516181397, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-simple-v2.3/mapkit-simple-v2/MemberCell.swift": [516293559, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-simple-v2.3/mapkit-simple-v2/MaterialCell.swift": [516179163, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/MembersListVC.swift": [516326917, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/HelloVC.swift": [516354714, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/AuthorizationVC.swift": [516705760, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-simple-v2.3/mapkit-simple-v2/TJTextField.swift": [505093142, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/SignUpVC.swift": [516338154, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/MaterialButton.swift": [515821086, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/Data.swift": [516707994, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/SlideMenuVC.swift": [516338695, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/DetailsGroupVC.swift": [516710444, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/GroupVC.swift": [516708714, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/NewGroupVC.swift": [516328079, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/AppDelegate.swift": [516325301, 0]
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/mapkit-v3/Constants.swift": [516707534, 0]

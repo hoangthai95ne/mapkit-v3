@@ -1,0 +1,147 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Products/Debug-iphonesimulator/Firebase.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FAuthData.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FAuthData.h"
+        },
+        {
+          'type': 'file',
+          'name': "FAuthType.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FAuthType.h"
+        },
+        {
+          'type': 'file',
+          'name': "FConfig.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FConfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "FDataSnapshot.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FDataSnapshot.h"
+        },
+        {
+          'type': 'file',
+          'name': "FEventType.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FEventType.h"
+        },
+        {
+          'type': 'file',
+          'name': "FMutableData.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FMutableData.h"
+        },
+        {
+          'type': 'file',
+          'name': "FQuery.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FQuery.h"
+        },
+        {
+          'type': 'file',
+          'name': "FTransactionResult.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FTransactionResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "Firebase-Swift.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Products/Debug-iphonesimulator/Firebase.framework/Headers/Firebase-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Firebase-umbrella.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Target Support Files/Firebase/Firebase-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Firebase.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/Firebase.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseApp.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FirebaseApp.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseServerValue.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Firebase/FirebaseServerValue.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Products/Debug-iphonesimulator/Firebase.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/Pods.build/Debug-iphonesimulator/Firebase.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Products/Debug-iphonesimulator/Pods_mapkit_v3.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-mapkit-v3-umbrella.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Target Support Files/Pods-mapkit-v3/Pods-mapkit-v3-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_mapkit_v3-Swift.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Products/Debug-iphonesimulator/Pods_mapkit_v3.framework/Headers/Pods_mapkit_v3-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Products/Debug-iphonesimulator/Pods_mapkit_v3.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-mapkit-v3.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Products/Debug-iphonesimulator/SlideMenuControllerSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SlideMenuControllerSwift-Swift.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Products/Debug-iphonesimulator/SlideMenuControllerSwift.framework/Headers/SlideMenuControllerSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SlideMenuControllerSwift-umbrella.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/Target Support Files/SlideMenuControllerSwift/SlideMenuControllerSwift-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SlideMenuControllerSwift.h",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/SlideMenuControllerSwift/Source/SlideMenuControllerSwift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Products/Debug-iphonesimulator/SlideMenuControllerSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Build/Intermediates/Pods.build/Debug-iphonesimulator/SlideMenuControllerSwift.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

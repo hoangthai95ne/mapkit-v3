@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "5f3b2fcff35fc3bce6656687a15cd5f3"
+build_time: [516696317, 159774000]
+inputs:
+  "/Users/Cayenne/Desktop/new Swift/mapkit-v3/Pods/SlideMenuControllerSwift/Source/SlideMenuController.swift": [516325498, 0]
